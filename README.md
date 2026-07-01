@@ -4,7 +4,7 @@ I am a Software Engineer actively learning System Design. This repository contai
 
 ## 30 Concepts Everyone Must Know When Starting System Design
 
-- [ ] 01. Client-Server Architecture
+- [x] 01. Client-Server Architecture
 - [ ] 02. IP Address
 - [ ] 03. DNS
 - [ ] 04. Proxy / Reverse Proxy
