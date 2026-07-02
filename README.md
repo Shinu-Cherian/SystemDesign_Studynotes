@@ -7,7 +7,7 @@ I am a Software Engineer actively learning System Design. This repository contai
 - [x] 01. Client-Server Architecture
 - [x] 02. IP Address
 - [x] 03. DNS
-- [ ] 04. Proxy / Reverse Proxy
+- [x] 04. Proxy / Reverse Proxy
 - [ ] 05. Latency
 - [ ] 06. HTTP/HTTPS
 - [ ] 07. APIs
