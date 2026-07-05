@@ -10,7 +10,7 @@ I am a Software Engineer actively learning System Design. This repository contai
 - [x] 04. Proxy / Reverse Proxy
 - [x] 05. Latency
 - [x] 06. HTTP/HTTPS
-- [ ] 07. APIs
+- [x] 07. APIs
 - [ ] 08. Rest API
 - [ ] 09. GraphQL
 - [ ] 10. Databases
