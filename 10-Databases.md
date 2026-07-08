@@ -1139,15 +1139,6 @@ We'll study these techniques in upcoming chapters.
 ---
 
 > [!TIP]
-> **💡 Did You Know? #1**
-> 
-> The relational database model was proposed by **Edgar F. Codd** in **1970** while working at IBM.
-> 
-> His revolutionary research introduced the concept of organizing data into related tables, which became the foundation of modern relational databases.
-
----
-
-> [!TIP]
 > **💡 Did You Know? #2**
 > 
 > Large technology companies rarely use a single database.
