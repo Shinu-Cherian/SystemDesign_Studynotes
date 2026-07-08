@@ -12,7 +12,7 @@ I am a Software Engineer actively learning System Design. This repository contai
 - [x] 06. HTTP/HTTPS
 - [x] 07. APIs
 - [x] 08. Rest API
-- [ ] 09. GraphQL
+- [x] 09. GraphQL
 - [ ] 10. Databases
 - [ ] 11. SQL vs NoSQL
 - [ ] 12. Vertical Scaling
