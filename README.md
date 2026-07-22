@@ -17,7 +17,7 @@ I am a Software Engineer actively learning System Design. This repository contai
 - [x] 11. SQL vs NoSQL
 - [x] 12a. Types of Databases - Part A
 - [x] 12b. Types of Databases - Part B
-- [ ] 12. Vertical Scaling
+- [x] 13. Vertical Scaling
 - [ ] 13. Horizontal Scaling
 - [ ] 14. Load Balancers
 - [ ] 15. Database Indexing
